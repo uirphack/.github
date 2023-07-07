@@ -1,4 +1,2 @@
 # uirphack
-2023 Research Park Hackathon coming soon!
-
-![](../static/Graphic.jpg)
+Link to the [2023 Research Park Hackathon](https://github.com/uirphack/2023)
